@@ -1,0 +1,6392 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enroll new group member</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аъзои нави гурӯҳро дохил кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage access for</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Идоракунии дастрасӣ барои</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>People</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Одамон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Record attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қайд кардани иштирок</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хонандагон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>last recorded</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сабти охир</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Today</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Имрӯз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sort_by</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷудо кардан ба</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schedule</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нақша</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Student</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани хонанда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>first</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>аввал</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>last</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>охирон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳамаро қайд кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark all present</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иштироки ҳамаро қайд кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Present</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳозир</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Absent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ғоиб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Absent Selected</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ғоибон интихоб шуданд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Partial Selected</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қисман интихоб шуданд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Absent Unselected</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ғоибон интихобашон бекор шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Partial Unselected</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қисман интихобашон бекор шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add field</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бахшро илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option value</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Арзиши имконот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk upload done. Please review warnings below.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боркунии яклухт анҷом ёфт. Лутфан огоҳиҳоро дар зер дида бароед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thank you for the feedback.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ташаккур барои фикру мулоҳизаҳо.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Call parent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба падару модар занг занед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enroll in class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номнавис шудан ба дарс</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a timezone</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Минтақаи вақтро интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will start tomorrow</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Он пагоҳ оғоз мешавад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance report</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳисоботи иштирок</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Record dropout</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қайд кардани тарки дарс</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Father</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Падар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Birthday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Зодрӯз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Full names</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ному насаб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First names</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please fill out all required fields</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Лутфан ҳама сатрҳои лозимаро хонапурӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи падар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Memory card</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Корти ҳофиза</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel invite</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бекор кардани даъват</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send in zip file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файли фишурда шударо фиристед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preparing</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тайёрӣ дидан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This field is required</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин бахш ҳатмист</seg>
+      </tuv>
+      <note>Registration dialog feedback</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schools</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Муассисаҳои таълимӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Letter</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мактуб</seg>
+      </tuv>
+      <note>Grading by letter e.g. A-F</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Basic details</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тафсилоти асосӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add person to class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шахсеро ба синф илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fathers name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи падар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fathers number</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумораи падарон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mothers name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи модар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Person</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шахси нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear History</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тоза кардан таърихи истифодабариҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Person</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таҳрири шахс</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таҳрир</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Student image</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тасвири хонанда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current SEL answers by students</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷавобҳои кунунии SEL аз ҷониби донишҷӯён</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>%1$s% complete</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>%1$s% анҷом</seg>
+      </tuv>
+      <note>Used to show what percentage of an assignment a student has completed. The %1$s will be
+    replaced with the percentage the student completed e.g. "75% complete"</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Social Nomination</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номзадии иҷтимоӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please select the student who will be performing this</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Лутфан хонандагонеро интихоб кунед, ки ин корро иҷро кунад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Child has provided consent to participate</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хонанда барои иштирок розигӣ додааст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>start selection</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Оғоз намудани интихоб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>10pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign to all classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба ҳамаи синфҳо вазифа супоред</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total Class days</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷамъи рӯзҳои таълимӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ustad Mobile - Offline Open Educational Resources</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Устод Мобайл - захираҳои таълимии кушодаи офлайн</seg>
+      </tuv>
+      <note>App store descriptions are placed here so that they appear in the translation system. They
+    will be automatically removed from the final app by resource shrinking 
+ App store title - max 50 characters</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>14pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>14pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allow multiple nominations</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба номзадҳои сершумор иҷозат диҳед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Passwords dont match. Please check and try again.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Паролҳо мувофиқ нестанд. Лутфан дубора санҷед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add, remove and modify custom fields</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова, тоза ё тағир додани майдонҳои фармоишӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please review errors below</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Лутфан хатоҳои дар поён бударо аз назар гузаронед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The current password is incorrect</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пароли мазкур нодуруст аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This username is not available. Please choose another one.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин номи корбарӣ мавҷуд нест. Лутфан дигареро интихоб кунед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ustad Mobile</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Устод Мобайл</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Login</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>воридшавӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>хатогӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error registering new user:</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хатогии бақайдгирии истифодабарандаи нав:</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unable to check username. Please try again later.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тафтиши номи корбарӣ ғайриимкон аст. Лутфан боварӣ ҳосил кунед, ки шумо онлайн ҳастед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wrong email address</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Суроғаи почтаи электронии нодуруст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wrong username/password: try again.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи истифодабаранда / пароли хато: бори дигар кӯшиш кунед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Network error: please check you are online.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хатогии пайвастшавӣ башабака: лутфан пайваст будани худро санҷед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>боргирӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Downloaded</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боргир шудааст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recycled</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз нав коркард шуда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Китобхонаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pause download</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таваққуф кардани боргирӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ОК</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тасдиқ кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>бекор кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>бекор шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>нест кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>нест шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Displaying on new Tab</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Намоиш додан дар варақаи нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боргузорӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>нест кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Logout</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хориҷ шудан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error opening file:</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хатои дар ҳоли кушодани файл:</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар бораи</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download all</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳамаро боргирӣ кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Баъдӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пештар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бозгашт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Username</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>номи корбар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ном</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Register Now</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳозир сабти ном кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пароли нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Phone memory</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳофизаи телефон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Person authentication failed offline.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Муайянсозии шахсият офлайн имконпазир аст.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Device</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дастгоҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Register</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сабти ном кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Phone number</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рақами телефон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ном</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>мард</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>зан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>дигар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unset</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бекор кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Танзимот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>забон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Такмилёфта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optional</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ихтиёрӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>почтаи электронӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Signup Code</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>рамзи сабти ном</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Асосӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Телефон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tablet</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>планшет</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иштирок</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>синфҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exams</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>имтиҳонҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reports</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>гузоришҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мундариҷа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Account</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳисоб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forgot password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаромуш кардани парол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Account</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ҳисоб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Share App</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мубодила кардани барнома</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Share</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>мубодила кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>фиристодан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>кушодан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Passed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гузашт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Downloading</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар ҳоли боргирӣ кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Waiting</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интизорӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Queued</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар навбат қарор дорад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Success</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Комёб шудан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Completed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Анҷом ёфт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Subtitles</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бе Зерунвон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No video file found</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ягон файли видеои ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Minimum 5 characters</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳадди ақал 5 аломат</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password should be at least 5 characters</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Парол бояд на камтар аз 5 аломат бошад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password doesn't match, try again</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Парол мувофиқат намекунад, бори дигар кӯшиш кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозӣ кардан</seg>
+      </tuv>
+      <note>Update student details action button</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Profile</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Профил</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access &amp; Share Educational Content Offline</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дастрас намудан ва мубодила кардани мундариҷа дар офлайн</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download now (free)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боргирӣ кунед (бе маблағ)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қабул кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also available in</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Инчунин дар ... дастрас аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get Started</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Оғоз кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Internet? No problem.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интернет нест? Душворие ҳам нест.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Share offline</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар офлайн мубодила кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Share content at high speed with any other user nearby.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Маводҳоро бо суръати баланд бо ягон корбари дигари наздик мубодила кунед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continue download</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Идома додан ба боргирӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Идома додан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>WiFi only</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Танҳо WiFi</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calculating…</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳисоб карда истодааст …</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;b&gt;Download&lt;/b&gt; total of %1$s items, they will use total of %2$s on your device storage.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>&lt;b&gt; Зеркашӣ &lt;/b&gt; ҳамагӣ% 1 $ s чизҳо, онҳо ҳамагӣ% 2 $ и анбори дастгоҳи шуморо истифода хоҳанд кард.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>24pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>24pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;b&gt;Downloading&lt;/b&gt; total of %1$s items, which will be using total of %2$s on your device storage.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>&lt;b&gt; Зеркашӣ &lt;/b&gt; ҳамагӣ% 1 $ s чизҳо, онҳо ҳамагӣ% 2 $ и анбори дастгоҳи шуморо истифода хоҳанд кард.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Downloading %1$s of %2$s</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Зеркашии% 1 $ s аз% 2 $ s</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>%1$s active downloads</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Зеркашии фаъол% 1 $ s</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CANCEL ALL</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳамаро бекор кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel download</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бекор кардани боргирӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pause</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таваққуф кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assignments</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Супоришҳо</seg>
+      </tuv>
+      <note>Assignments e.g. homework for a class</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File permissions required</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозатҳои файл лозиманд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available nearby</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар наздикӣ дастрас аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available on cloud</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар клауд дастрас аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paused</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таваққуф карда шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get app</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Барномаро дастрас намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Муаллиф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозатнома</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шарҳу тавсиф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reading Level</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сатҳи хониш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Not Found</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файл ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multimedia</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мултимедиа</seg>
+      </tuv>
+      <note>Content editor</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple choice</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихобҳои чандгона</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Link</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пайванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>TEXT</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Матн</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PARAGRAPH</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Банд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left To Right</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз чап ба рост</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right To Left</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз рост ба чап</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>8pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>8pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recognition: Please tap each of your classmates pictures, and select their name from the popup.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Эътироф: Лутфан ба ҳар як акси ҳамсинфони худ ламс кунед ва номи онҳоро аз барҷастҳо интихоб кунед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ustad Mobile is an open-source app that enables users to access a wide variety of open educational resources, online or offline. Both the app and content can be shared offline between devices.
+ 
+ Ustad Mobile features openly licensed content from some of the Internet's leading Open Educational Resources (OER) sites:
+ 
+ African Story Books
+ ETakkatho
+ Global Digital Library
+ Khan Academy (including offline access to both videos and exercises)
+ PHET
+ Pratham Books
+ Voice of America
+ 
+ Content is provided under license by external content providers. Ustad Mobile, unless explicitly mentioned otherwise, is not endorsed by any such content provider.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Устод Мобайл як барномаи кушодаасос аст, ки ба корбарон имкон медиҳад то дастрасӣ ба захираҳои гуногуни таълимии кушодро дар реҷаи онлайн ё офлайн дастрас кунад. Ҳам барнома ва ҳам мундариҷа метавонанд аз дастгоҳҳо ба таври офлайн мубодила шаванд.
+ 
+ Устод Мобайл дорои мундариҷаи ошкоро ва иҷозатномашуда мебошад, ки баъзе мундариҷаи пешрафтаи дастрасӣ ба таълим дар Интернетро инъикос мекунад :
+ 
+  Китобҳои ҳикояи Африқо
+  ЭТаккато
+  Китобхонаи глобалии рақамӣ
+  Академияи Хан (аз ҷумла дастрасии фаврӣ ба ҳам видео ва ҳам машқҳо)
+  PHET
+  Китобҳои Pratham
+  Овози Амрико
+ 
+  Мундариҷа аз ҷониби провайдерҳои мундариҷаи беруна тибқи иҷозатнома пешниҳод карда мешавад. Устод Мобайл, агар ба таври возеҳ дарҷ нагардида бошад, аз ҷониби ягон провайдери мундариҷа тасдиқ карда намешавад.</seg>
+      </tuv>
+      <note>Full app store description - max 4000 characters</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файлро интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preparing file...</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Омодасозии файл ...</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Previewing...</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пешнамоиш ...</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Photo</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сурат</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Video</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Видео</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Media type</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навъи медиа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blank page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саҳифаи холӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Зер кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>to start editing.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таҳрирро оғоз кардан.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саҳифаи нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Untitled document</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳуҷҷати бесарлавҳа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани саҳифа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саҳифаро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тоза кардани саҳифа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Унвон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ContentEntry Not Found</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани мундариҷа ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directionality</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Роҳнамо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ботил сохтан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дубора анҷом додан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text formatting</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Форматкунии матн</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pages</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саҳифаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>фосила</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outdent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>берун аз ҳошия</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unordered List</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯйхати номатлуб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Оғози ногаҳони</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нишон диҳед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>хам</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>question</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Савол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Questions</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саволҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>пурранг</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font size</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>андозаи шрифт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Center</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Марказ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рост</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Superscript</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>абарнигошт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subscript</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>зернигошт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пешнамоиш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Link text</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пайванд кардани матн</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Link Url</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пайванд кардани URL</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Question</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Савол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Link</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дарҷ кардани пайванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove Link</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тоза кардани пайванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This app requires both camera and file permissions to take photos and record videos</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин барнома иҷозати аксбардори ва наворбардориро талаб мекунад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add new</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import from file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Воридот аз файл</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import from link</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Воридот аз пайванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new folder</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Эҷод кардани ҷузвдони нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таҳрир кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add content</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани мундариҷа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Захира кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update document</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳуҷҷатро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файлро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update Content</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозӣ кардани мундариҷа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз файл</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From link</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз пайванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозатнома</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>down</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>поён</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хатогиҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make content active</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мундариҷаро фаъол созед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activity went good</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъолият хуб иҷро шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free text</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Матни ройгон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add option</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иловаи интихоб</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have successfully imported a file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумо файлро бо муваффақият ворид кардед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill out required fields and try again</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷойҳои лозимаро пур кунед ва бори дигар кӯшиш кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Storage option</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоби захирагоҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New folder was successfully added</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷузвдони нав бо муваффақият илова карда шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Folder was successfully updated</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷузвдон бо муваффақият навсозӣ карда шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No folders found</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ягон ҷузвдон ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No downloads found</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ягон боргириҳо ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to load the page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бор кардани саҳифа муяссар нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Updated successfully</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бомуваффақият навсозӣ карда шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support for adding an image is coming soon</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дастгирии илова кардани тасвир сурат мегирад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Importing, please wait</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар ҳоли воридшавӣ, лутфан мунтазир бошед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Содир кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exporting</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар ҳоли содир кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is the question that will be shown and explained to the student.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин саволест, ки ба хонанда шарҳ дода мешавад.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are about to export %1$s to your device storage. Would you like to continue?</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумо дар ҳоли % 1 $ s -ро ба захираи дастгоҳатон содир карданед. Мехоҳед идома диҳед?</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid Registration Code</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рамзи бақайдгирии нодуруст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bar Chart</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сутуни диаграмма</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Line Graph</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Графаи хатҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Average Score</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Холҳои миёна</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total Duration</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомнокии умумӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Average Duration</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомнокии миёна</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg># of activities</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg># аз фаъолиятҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Day</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Week</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳафта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Month</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Моҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Content Entry</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Вуруди мундариҷа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷойгиршавӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гендер</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пок кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Today</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Имрӯз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷро шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Locations</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоб кардани ҷойгиршавиҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Умумӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Report Title</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Унвони гузориш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Y-Axis</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Y-меҳвар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>X-Axis</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>X-меҳвар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subgroup by</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Зергуруҳ аз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Did</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Кард</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Чӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Кай</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>18pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>18pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар куҷо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пешнамоиш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nomination</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номзадӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import Link</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид кардани пайванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hrs</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Соатҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mins</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дақиқаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Secs</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сонияҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Active</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Person</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Инсон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Did what</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Чӣ анҷом дода шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Result</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Натиҷа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From camera</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз камера</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шарҳу тавсиф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Axes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Асбобҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Кӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Кай</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Унвон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боре</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Title not entered</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Унвон ворид карда нашудааст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дигар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You do not have an account?</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумо ҳисоб надоред?</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid Url</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>URL-и беэътибор</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Субъект</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Матн</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>парол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тасдиқ кардани парол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Огоҳиномаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In progress</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар ҳоли пешрафт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Комёб нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Subtitle Language</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоб кардани Забони Зерунвон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stay on website</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар веб истед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳеҷ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Content not supported</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мундариҷа дастгирӣ намешавад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import Error</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хатогии воридот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>404 !</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>404 !</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Offline sharing requires Bluetooth</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мубодилаи офлайнӣ Bluetooth-ро талаб мекунад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Offline sharing requires WiFi to be switched on</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мубодилаи офлайнӣ талаб менамояд, ки WiFi фаъол бошад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъол кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More information</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Маълумоти бештар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Less information</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Маълумоти камтар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading from peer</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боркунӣ аз ҳамроҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No content found</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ягон мундариҷа ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connection error</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хатогӣ дар пайвастшавӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Syncing..</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Синхронизатсия ..</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Node List</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯйхати гиреҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Feed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Student recognizes their classmates</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хонанда ҳамсинфони худро эътироф мекунад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Person</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шахсеро илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update picture</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аксатонро нав созед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Class name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Class description</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тавсифи синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>to</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ба</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Holiday Calendar</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тақвими идҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Features enabled</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Амалиётҳо фаъол карда шудаанд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Class Setup</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Танзими синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add session</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани ҷаласа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Every working day</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳар рӯзи корӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Monthly</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Моҳона</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Якшанбе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Душанбе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сешанбе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Чоршанбе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Панҷшанбе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷумъа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>January</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Январ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>February</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Феврал</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>March</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Март</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>April</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Апрел</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>May</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Май</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>June</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Июн</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>July</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Июл</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>August</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Август</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>October</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Октябр</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>November</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ноябр</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>December</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Декабр</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Day</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This Month</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин моҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last Year</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Соли гузашта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attended less than 60% of lessons</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Камтар аз 60% дарсҳо иштирок карданд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last Month</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Моҳи гузашта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Record activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъолиятро сабт кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activity change</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тағири фаъолият</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change implemented (if any)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тағирот ворид шуд (агар бошад)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомноки</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қайдҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъолият</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз рӯйи номҳо гурӯҳбандӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>name (ascending)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ном (боло меравад)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>name (descending)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ном (поён меравад)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷудо кардан ба</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ном</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance (high to low)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомот (аз зиёд ба кам)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance (low to high)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомот (аз кам ба зиёд)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teacher</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Муаллим</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Partial</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қисман</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enroll new teacher</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷалби омӯзгори нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add teacher</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дохил кардани омӯзгор</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your summary</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хулосаи шумо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>up</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>боло</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter any notes you have about this activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қайдҳои худро оид ба ин фаъолият нависед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many times</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Чанд бор</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Length of time</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомнокӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>True or false</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дуруст ё нодуруст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unit of measurement</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Воҳиди ченак</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Measurement type</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навъи андозагирӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Frequency</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Басомад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>YesNo</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ҲаНе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time period</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мӯҳлат</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Макон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disaggregate by gender</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тақсимот аз рӯи ҷинс</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create report</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таҳияи гузориш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last two weeks</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ду ҳафтаи охир</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last three months</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Се ҳафтаи охир</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom date range</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шакли танзимшавандаи сана</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show student percentages</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нишондоди фоизи хонандагон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance thresholds</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳадди давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Паст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mid</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Миёна</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Баланд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance by threshold</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳадди давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At risk students</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Хонандагони таҳти хавф қарордошта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Operations report</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гузориши татбиқ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>IRC master list report</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гузориши асосии IRC</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEL report</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>гузориши SEL</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоби синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overall attendance report</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гузориши умумии давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Содирот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>XLS</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>XLS</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CSV</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>CSV</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сана</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Average</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Миёна</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Age</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Синну сол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Days</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯзҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Get started</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Оғоз намоед</seg>
+      </tuv>
+      <note>Get started - e.g. as used in the button when the app first runs</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоби файл</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Upload Master</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Боркунии яклухти намуна</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Татбиқ намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File selected:</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мавод интихоб гардид:</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳама</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Retention officer</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Корманди нигоҳдорӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Holiday calendars</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тақвими идҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add, remove and modify holiday calendars</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова, тоза кардан ва тағир додани тақвими идҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEL Question sets</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Маҷмуъи саволҳои SEL</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage SEL questions</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Идора кардани саволҳои SEL</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Корбарон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New question set</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саволи нав гузошта шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Question</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таҳрири савол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Question text</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Матни савол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Question type</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шакли савол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nomination</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номзадӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Count of days present</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Миқдори рӯзҳое, ки иштирок кардаст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Count of days partial</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Миқдори рӯзҳое, ки қисман иштирок кардаст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Student ID</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шиносномаи хонанда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷинс</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Не</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таъин нашудаст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recognition confirmation not given. Please check.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ташхис тасдиқ нашудаст. Луфтан санҷед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEL question set to use</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саволи SEL барои истифода таъин карда шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nominating</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пешбарӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷустуҷӯ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Филтр</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number of absent days in a row:</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Миқдори рӯзҳои ғоиб дар як саф:</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>over</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>бар зиёд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have to create a schedule to be able to take attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумо бояд ҷадвали давомот тартиб диҳед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Намоиши синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View student</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Намоиши хонанда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sync</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳамоҳангсозӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not recorded</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сабт нашудаст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Синфхонаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интиқол додан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cry</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гиря кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sickness</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Беморӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Public school</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Муассисаи таълимӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Transportation</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нақлиёт</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Personal issues</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Масъалаҳои шахсӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дигар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Groups</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гурӯҳҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Roles</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нақшҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Role</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нақшҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage permissions given to roles</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозатномаҳои ба нақшҳо додашударо идора кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Roles assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тақсимоти вазифаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locations</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Макон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage locations</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Идоракунии маконҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Audit log</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дафтари аудит</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View and export audit log</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз назар гузарондан ва содир кардани дафтари аудит</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New holiday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иди нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>entries</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>вурудот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>entry</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>вуруд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Holiday calendar name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи тақвимии идҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a calendar range</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Як қатор тақвим илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New role</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нақши нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Permissions</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>permission</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозат</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add role</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани нақш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Role name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи нақш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update SEL questions</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саволҳои SEL ро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View SEL results</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Натиҷаҳои SEL ро назорат кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Record SEL</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>SEL ро ба қайд гиред</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update SEL results</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Натиҷаҳои SEL ро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enroll person</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Як нафарро дохил кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>changed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тағйир дода шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEL</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>SEL</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update usernamepassword</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозии ном ва пароли корбарӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enroll</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сабти ном кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unable to update password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозии парол имконнопазир аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom fields</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Майдонҳои фармоишӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom field</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Майдони фармоишӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>member</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>аъзо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add group</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ворид намудани гурӯҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add people</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид намудани одамон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New group</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гурӯҳи нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New role assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таъин намудани нақши нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Role assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таъин намудани нақш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Role assignments</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таъиноти нақшҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>in</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>дар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign role to</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таъин кардани нақш ба</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гурӯҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scope by</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳаҷми аз ҷониби</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign to</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таъин кардани</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AddEdit location</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид тағъир додани макон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sub location</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>зермакон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add location</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид намудани макон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location title</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номгӯйи макон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parent location</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Макони асосӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Person</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шахс</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View people</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Назорати одамон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add People</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Одамонро ворид намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update People</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозии одамон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View profile pictures</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Намоиши тасвирҳои профил</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add profile pictures</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова намудани тасвирҳои профил</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update profile pictures</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозии тасвирҳои профил</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View Classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Назорати синфҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update Classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозии синфҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add teachers to class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова намудани омӯзгорон ба синфҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Назорати давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Take attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Қайди давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозии давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View class activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Назорати фаъолияти синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update class activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Машғулияти дарсиро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View SEL questions</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саволҳои SEL ро аз назар гузаронед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field name (English)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи бахш (англисӣ)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field name (Arabic)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи бахш (арабӣ)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field type</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шакли бахш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dropdown</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Афтанда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Имконот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addmodify option</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова тағйироти имконот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default value</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Арзиши пешфарз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shake for feedback</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Барои фикру мулоҳиза даст афшонед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please enter your feedback</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Лутфан фикру мулоҳизаҳои худро ворид кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send feedback</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фикру мулоҳизаро ирсол намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start date</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Санаи оғоз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End date</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Санаи анҷом</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select image from Camera or Gallery</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тасвирро аз суратгир ё галерея интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Суратгир</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Галерея</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unable to open that image</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин тасвир кушода нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Захира намо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ивази парол</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пароли мазкур</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password (Unchanged)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Парол (Бетағйир)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm password (Unchanged)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Паролро тасдиқ кунед (Бетағйир)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dismiss</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бекор кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your next schedule has not started yet.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷадвали навбатии шумо ҳоло оғоз нашудааст.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will start in</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Он дар оғоз хоҳад шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unable to check username. Please make sure you are online.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тафтиши номи корбарӣ ғайриимкон аст. Лутфан боварӣ ҳосил кунед, ки шумо онлайн ҳастед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last synced</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Охирин ҳамоҳанг карда шудааст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Feed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ахбор</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Синфхонаҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>People</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Одамон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reports</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳисоботҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Content</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мазмун</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Person not found locally. Please get online for first login.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шахс дар макон ёфт нашуд. Лутфан барои вуруди аввал онлайн шавед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add, remove, modify users, or reset their password</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова, тоза, тағйир додани истифодабарандагон ё барқарор кардани пароли онҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>'s person group</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Алоқамандаии касе ба гурӯҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please enter name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Лутфан ному насабро ворид кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Created user</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Корбари таъсис дода шуда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Навсозӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add school</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани муассисаи таълимӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани супоришҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grading</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Баҳогузорӣ</seg>
+      </tuv>
+      <note>How an assignment is graded e.g. by letter, numerical, etc</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry, this device does not support sending files over Bluetooth.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бубахшед, ин дастгоҳ фиристодани файлҳоро тавассути Bluetooth дастгирӣ намекунад.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can share this app offline. On the device that you want to share with: 
+1. Open Settings &gt; Bluetooth Settings. 
+2. Make sure that the device is visible.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумо метавонед ин барномаро дар оффлайн мубодила кунед. Дар дастгоҳе, ки шумо онро мубодила кардан мехоҳед:
+1. Танзимотҳо &gt; Танзимоти Bluetooth -ро кушоед.
+2. Боварӣ ҳосил кунед, ки дастгоҳ намоён аст.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download educational videos, articles and interactive exercises for later use.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Видеоҳо, мақолаҳо ва машқҳои интерактивии таълимиро барои истифодаи баъдӣ боргирӣ кунед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location permission required</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозати дарёфти макон лозим аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Untitled page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саҳифаи бесарлавҳа</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update document</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳуҷҷатро навсозӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This app requires the location permission to enable high-speed offline sharing with nearby users.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин барнома иҷозати ҷойгиршавиро тақозо мекунад, то мубодилаи фаврӣ бо корбарони наздик фаъол карда шавад.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Date</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Танзими рӯз</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Range</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Диапазони сана</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Entries</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Воридотро интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Visualization Type</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Намуди визуализатсия</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Филтрҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numerical</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ададӣ</seg>
+      </tuv>
+      <note>e.g. Numerical assignment grading</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Instructions for students</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Супоришҳо барои хонандагон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not started</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Оғоз нашудаст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Started %1$s%</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>%1$s%оғоз шуд</seg>
+      </tuv>
+      <note>used to show when an assignment (or other work item) was started by the assignee. The
+    %1$s% will be replaced with the date that they started.</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Started</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Оғоз шуд</seg>
+      </tuv>
+      <note>Used to indicate that something (e.g. an assigment) has been started</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mixed</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Омехта</seg>
+      </tuv>
+      <note>E.g. for a mixed gender school which has both boys and girls</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Access and share educational content offline</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба шабака дастрасӣ ва мубодила кардани мундариҷаи таълимӣ</seg>
+      </tuv>
+      <note>Short description - max 80 characters</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Due date</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Санаи анҷом</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Унвон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Content</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мазмун</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Require attachment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Замима зарур аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Супоришро илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Супориш</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Student progress</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пешрафти хонанда</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use device language</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Забони дастгоҳро истифода баред</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This app uses Bluetooth and WiFi scanning to find other users nearby. The app can then connect to nearby users to download content at high-speed without requiring Internet access. Because these scan results could be used to determine your location, you must grant the location permission to enable this feature. This app does not save the results of these scans and does not record your location in any way. This app is built from open source code which can be checked at github.com/UstadMobile/UstadMobile</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин барнома Bluetooth ва WiFi-ро барои ёфтани корбарони дигар дар наздикӣ истифода мебарад. Он гоҳ барнома метавонад бо корбарони наздик бо суръати баланд боркаш кардани мундариҷаро  бидуни дархости дастрасӣ ба Интернет имконият диҳад. Азбаски ин амалро барои муайян кардани макони шумо истифода бурдан мумкин аст, шумо бояд барои муайян кардани ҷойгиршавӣ иҷозат диҳед. Ин барнома натиҷаҳои ин амал ва макони шуморо бо ягон роҳ сабт намекунад. Ин барнома аз рамзи кушодаасос сохта шудааст, ки онро дар github.com/UstadMobile/UstadMobile санҷидан мумкин аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;b&gt;Downloaded&lt;/b&gt; total of %1$s items, which are using about %2$s of your device storage.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>&lt;b&gt; Зеркашӣ &lt;/b&gt; ҳамагӣ% 1 $ s чизҳо, онҳо ҳамагӣ% 2 $ и анбори дастгоҳи шуморо истифода хоҳанд кард.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use %1$s - %2$s free</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Истифодаи %1$s - аз %2$s озод</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This app requires file permissions on the SD card to download and save content</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ин барнома барои зеркашӣ ва нигоҳ доштани мундариҷа дар корти SD иҷозати файлро талаб мекунад</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insufficient storage space available</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷойи кофии нигоҳдории мундариҷа мавҷуд нест</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No app found to open file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ягон барнома барои кушодани файл ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill in the blanks</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҷойҳои холиро пур кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>12pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>12pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>36pt</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>36pt</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From device</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Аз дастгоҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What media type would you like to capture?</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумо кадом навъи медиаро мехоҳед сабт намоед?</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry you can not delete this page</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бубахшед, шумо ин саҳифаро нест кардан наметавонед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ordered List</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯйхати фармоишӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Чап</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Link text or url can not be empty, try again</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Матни истинод ё url холӣ буда наметавонад, бори дигар кӯшиш кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Camera and File Permission Required</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷозат барои истифодаи Камера ва файл лозим аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new content</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Эҷод кардани маводҳои нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иҷро шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Унвон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файлро интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make content public</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Мундариҷаро оммавӣ кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selected file is not supported, try another file</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файли интихобшуда пуштибонӣ намешавад, дигар файлро санҷед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File to be imported is not selected, try again</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файли воридшаванда интихоб карда нашудааст, бори дигар кӯшиш кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No recycled items</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Маводҳои боз истифодашуда ёфт нашуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to update document</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳуҷҷатро навсозӣ карда натавонист</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Supported files: &lt;b&gt;Epub, TinCan (XAPI) Zip&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Файлҳои дастгиримешудагӣ: &lt;b&gt; Epub, TinCan (XAPI) Zip &lt;/b&gt;</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error while saving, try again</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳангоми захирасозӣ ба  хатогӣ рӯ ба рӯ шуд, бори дигар кӯшиш кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter Registration Code</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рамзи бақайдгириро ворид кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to Dashboard</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба панели фаъолиятҳо илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Score (%)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳисоб (%)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter Url</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>URL-ро ворид кардан</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File size too big</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Андозаи файл хеле калон аст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry, the page that you are looking for can not be found.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бубахшед, саҳифае, ки шумо ҷустуҷӯ мекунед, ёфта намешавад.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading from cloud</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Бор кардан аз клауд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No connection or peer</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Пайвастшавӣ ё ҳамроҳ вуҷуд надоранд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Log</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сабти рӯйдодҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last week</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳафтаи гузашта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark all absent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иштирокчиёнро қайд кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Present Selected</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иштирокчиён интихоб шуданд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Present Unselected</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Иштирокчиён интихобашон бекор шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text parent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба падару модар нависед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mother</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Модар</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Home address</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Суроғаи хона</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mothers number</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумораи модарон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enroll new student</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номнавис кардани хонандаи нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEL</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Омӯзиши иҷтимоӣ эмотсионалӣ  (SEL)</seg>
+      </tuv>
+      <note>Social Emotional Learning (SEL)</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Record SEL</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сабти омӯзиши иҷтимоӣ эмотсионалӣ  (SEL)</seg>
+      </tuv>
+      <note>Allows the user to record Social Emotion Learning Nomination</note>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1. Explain the terms of consent to the child.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>1. Шартҳои розигиро ба хонанда шарҳ диҳед.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Омӯзгорон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1. Tell the student you would like them to choose for this question.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>1. Ба хонанда бигӯед, ки шумо мехостед, ки онҳо ба ин саволро интихоб кунанд.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sub locations</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>зермаконҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2. Press the START SELECTION button at the bottom to hide this instruction and allow the student to make their selection.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>2. Барои пинҳон кардани ин дастур тугмаи ОҒОЗИ ИНТИХОБ-ро дар поён пахш кунед ва ба хонанда иҷозат диҳед, ки интихоби худро анҷом диҳанд.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a class day</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Рӯзеро барои синф илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Weekly</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ҳафта</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yearly</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Солона</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шанбе</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>September</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сентябр</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attended over 80% of lessons</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар зиёда аз 80% дарсҳо иштирок карданд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attended 60-79% of lessons</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дар зиёда аз 60-79% дарсҳо иштирок карданд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How did it go ?</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Чӣ тавр буд?</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>SEL done. You can now move to another student</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>SEL анҷом дода шуд. Ҳоло шумо метавонед ба хонандаи дигар гузаред</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taught by</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Таълим аз тарафи</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activity didn't go as good</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъолият на онқадар хуб иҷро шуд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a new activity...</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъолияти навро илова намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фаъолиятро илова намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select one</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Якеро интихоб намоед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Report Options</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шаклҳои гузоришро интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show student numbers</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Нишондоди миқдори хонандагон</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overall attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомот дар умум</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number of days classes open</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шумораи рӯзҳо, ки дарсҳо амалӣ мешаванд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Attendance Thresholds</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоби ҳадди давомот</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Easily record student attendance</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Давомоти хонандагонро ба осонӣ сабт кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At risk students report: shows all students deemed at risk (due to low attendance)</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Гузориши хонандагони зери хатар: ҳамаи хонандагони дар зери хатар қарордоштаро нишон медиҳад (бо сабаби иштироки паст дар дарсҳо)</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Question set</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Савол гузошта шудааст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple choice</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Интихоби чандгона</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date left</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Сана мондааст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Count of days absent</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Миқдори рӯзҳое, ки иштирок накардаст</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Class ID</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Шиносномаи синф</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Consent not given. Please check if consent has been given.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ризоият дода нашудаст. Лутфан санҷед, ки оё розигӣ дода шудааст.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attendance percentage:</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Фоизи давомот:</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the time zone for these locations</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Минтақаи вақтро барои ин мавзеъҳо интихоб кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other NGO</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дигар ташкилотҳои ғайридавлатӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parents refuse permission</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Волидайн иҷозат намедиҳанд</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add, remove or modify groups</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова, нест ё тағир додани гурӯҳҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign roles to a user or a group</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Тақсимоти вазифаҳо ба истифодабаранда ё гурӯҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add holiday calendar</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид намудани тақвими идҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add holiday</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Идро илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>members</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>аъзоён</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group name</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Номи гурӯҳ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add new role assignment</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ворид намудани вазифаи нақши нав</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Individual user</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Истифодабарандаи инфиродӣ</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>ивазкунӣ аз ҷониби</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An audit log is a log of all activities relevant to class management, teachers and students.</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Дафтари аудит қайди тамоми фаъолиятҳои марбут ба идоракунии синф, омӯзгорон ва хонандагон мебошад.</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Classes</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова кардани синфҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add students to class</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Илова намудани хонандагон ба синфҳо</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Take class activity</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Ба машғулият дарсӣ оғоз кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add SEL questions</seg>
+      </tuv>
+      <tuv xml:lang="tg">
+        <seg>Саволҳои SEL ро илова кунед</seg>
+      </tuv>
+      <note></note>
+    </tu>
+  </body>
+</tmx>

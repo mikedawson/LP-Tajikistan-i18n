@@ -1,0 +1,14 @@
+6/1/20 12:49 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     388	 1565	                       8046	                         9198	     1	
+Remaining:       	     388	 1565	                       8046	                         9198	     1	
+Unique:          	     373	 1505	                       7733	                         8840	     1	
+Unique Remaining:	     373	 1505	                       7733	                         8840	     1	
+
+
+Individual File Statistics:
+
+File Name             	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Website_Resources.resx	           388	               388	            373	                      373	       1565	           1565	        1505	                  1505	                             8046	                                 8046	                              7733	                                        7733	                               9198	                                   9198	                                8840	                                          8840	
