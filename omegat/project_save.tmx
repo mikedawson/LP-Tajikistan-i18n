@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Email/Phone</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055917Z" creationid="mike" creationdate="20200609T055917Z">
+        <seg>Почтаи электронӣ/Телефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error occured while getting the course details.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T060010Z" creationid="mike" creationdate="20200609T060010Z">
+        <seg>Ҳангоми гирифтани тафсилоти дарс хатогӣ ба миён омад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: typing, accounting etc.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T054847Z" creationid="mike" creationdate="20200609T054847Z">
@@ -190,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please sign-in and register to view lesson content.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055815Z" creationid="mike" creationdate="20200609T055815Z">
+        <seg>Лутфан барои дидани мундариҷаи дарс ворид шуда сабти ном кунед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Post</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055441Z" creationid="mike" creationdate="20200609T055441Z">
@@ -234,6 +258,46 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055706Z" creationid="mike" creationdate="20200609T055706Z">
         <seg>Ба қайд гирифтан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Changes</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055751Z" creationid="mike" creationdate="20200609T055751Z">
+        <seg>Сабти дигаргуниҳо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055825Z" creationid="mike" creationdate="20200609T055825Z">
+        <seg>Пешниҳод кардан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User does not exist</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055906Z" creationid="mike" creationdate="20200609T055906Z">
+        <seg>Истифодабаранда вуҷуд надорад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What will be covered?</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T060016Z" creationid="mike" creationdate="20200609T060016Z">
+        <seg>Аз чӣ иборат хоҳад буд?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055849Z" creationid="mike" creationdate="20200609T055849Z">
+        <seg>Бале</seg>
       </tuv>
     </tu>
     <tu>
