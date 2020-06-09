@@ -22,10 +22,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add your reply here...</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112512Z" creationid="mike" creationdate="20200609T112512Z">
+        <seg>Ҷавоби худро инҷо зам кунед...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional Materials</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112343Z" creationid="mike" creationdate="20200609T112343Z">
         <seg>Маводҳои иловагӣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while loading the assessment.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112657Z" creationid="mike" creationdate="20200609T112657Z">
+        <seg>Хатогӣ. Ҳангоми гирифтани баҳодиҳӣ хатогӣ ба миён омад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while submitting the assessment.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112713Z" creationid="mike" creationdate="20200609T112713Z">
+        <seg>Хатогӣ. Ҳангоми пешниҳоди баҳодиҳӣ хатогӣ ба миён омад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +66,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112420Z" creationid="mike" creationdate="20200609T112420Z">
         <seg>Ҷавобҳои пешниҳод шуда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to submit the quiz?</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112600Z" creationid="mike" creationdate="20200609T112600Z">
+        <seg>Дар ҳақиқат мехоҳед пурсишро фиристед?</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +98,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112139Z" creationid="mike" creationdate="20200609T112139Z">
         <seg>Тамом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Correct</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112623Z" creationid="mike" creationdate="20200609T112623Z">
+        <seg>Дуруст</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid entry!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112523Z" creationid="mike" creationdate="20200609T112523Z">
+        <seg>Вориди беэътибор!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It seems you haven’t answered all questions.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112554Z" creationid="mike" creationdate="20200609T112554Z">
+        <seg>Ба назар менамояд, ки шумо ба ҳамаи саволҳо ҷавоб надодаед. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last Name</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055302Z" creationid="mike" creationdate="20200609T055302Z">
@@ -350,10 +406,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please enter a comment before hitting submit.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112517Z" creationid="mike" creationdate="20200609T112517Z">
+        <seg>Лутфан пеш аз пахши тугмаи пешниҳод шарҳ зам кунед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please make sure you are signed-in and your sign-in is not timed out.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055029Z" creationid="mike" creationdate="20200609T055007Z">
         <seg>Лутфан тафтиш кунед, ки ворид шудаед ва вақти воридшавӣ ба охир нарасидааст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please note that a post can be removed by an administrator if it does not meet posting criteria or not relevant to content.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112506Z" creationid="mike" creationdate="20200609T112506Z">
+        <seg>Лутфан дар хотир доред, ки нашрҳо дар ҳолати ба талаботҳои нашр муносиб набудан метавонанд аз ҷониби маъмурият нест карда шаванд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +458,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T111651Z" creationid="mike" creationdate="20200609T111651Z">
         <seg>Лутфан ворид шавед ва бори дигар санҷед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112632Z" creationid="mike" creationdate="20200609T112632Z">
+        <seg>Лутфан интизор шавед</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seems that your concepts aren’t clear</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112611Z" creationid="mike" creationdate="20200609T112611Z">
+        <seg>Чунин менамояд, ки мафҳумҳои шумо фаҳмо нестанд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112126Z" creationid="mike" creationdate="20200609T112126Z">
@@ -562,6 +650,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112214Z" creationid="mike" creationdate="20200609T112214Z">
         <seg>Хориҷ шудан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipped</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112627Z" creationid="mike" creationdate="20200609T112627Z">
+        <seg>Гузарондан</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112620Z" creationid="mike" creationdate="20200609T112620Z">
+        <seg>Аҳсан!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What will be covered?</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T060016Z" creationid="mike" creationdate="20200609T060016Z">
@@ -666,6 +770,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T111702Z" creationid="mike" creationdate="20200609T111702Z">
         <seg>Шумо ворид нашудаед ё вақти шумо ба охир расидааст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can do better</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112616Z" creationid="mike" creationdate="20200609T112616Z">
+        <seg>Шумо ба аз ин беҳтар қодир мебошед</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>click to submit your reply</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112527Z" creationid="mike" creationdate="20200609T112527Z">
+        <seg>барои пешниҳоди ҷавоби худ зер кунед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>course Info</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112356Z" creationid="mike" creationdate="20200609T112356Z">
@@ -714,6 +834,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112059Z" creationid="mike" creationdate="20200609T112059Z">
         <seg>дарсҳо ёфт шуданд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112605Z" creationid="mike" creationdate="20200609T112605Z">
+        <seg>аз</seg>
       </tuv>
     </tu>
     <tu>
