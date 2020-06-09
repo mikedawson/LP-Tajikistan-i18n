@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contact your admin for more information.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114221Z" creationid="mike" creationdate="20200609T114221Z">
+        <seg>Бо маъмури худ барои маълумоти иловагӣ тамос гиред.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Correct</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112623Z" creationid="mike" creationdate="20200609T112623Z">
