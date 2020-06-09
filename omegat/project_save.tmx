@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please sign-in and try again.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T111651Z" creationid="mike" creationdate="20200609T111651Z">
+        <seg>Лутфан ворид шавед ва бори дигар санҷед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Post</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055441Z" creationid="mike" creationdate="20200609T055441Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055540Z" creationid="mike" creationdate="20200609T055540Z">
         <seg>Профил азнавсози нашуд!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile updated successfully!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T111728Z" creationid="mike" creationdate="20200609T111728Z">
+        <seg>Профил бо муваффақият азнавсозӣ шуд!</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055849Z" creationid="mike" creationdate="20200609T055849Z">
         <seg>Бале</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are not signed in or the session timed out.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T111702Z" creationid="mike" creationdate="20200609T111702Z">
+        <seg>Шумо ворид нашудаед ё вақти шумо ба охир расидааст.</seg>
       </tuv>
     </tu>
     <tu>
