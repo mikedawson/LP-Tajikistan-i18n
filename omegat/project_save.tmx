@@ -102,10 +102,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highest educational qualification</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055221Z" creationid="mike" creationdate="20200609T055221Z">
+        <seg>Сатҳи олии таҳсилот</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this error still persists, please contact site admins.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055041Z" creationid="mike" creationdate="20200609T055041Z">
         <seg>Агар ин хатогӣ боқӣ монад, ба маъмурони сайт муроҷиат кунед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last Name</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055302Z" creationid="mike" creationdate="20200609T055302Z">
+        <seg>Насаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MALE</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055253Z" creationid="mike" creationdate="20200609T055253Z">
+        <seg>МАРД</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEXT</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055346Z" creationid="mike" creationdate="20200609T055346Z">
+        <seg>ОЯНДА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055353Z" creationid="mike" creationdate="20200609T055353Z">
+        <seg>Не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055357Z" creationid="mike" creationdate="20200609T055357Z">
+        <seg>Дигар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055407Z" creationid="mike" creationdate="20200609T055407Z">
+        <seg>Телефонҳо</seg>
       </tuv>
     </tu>
     <tu>
