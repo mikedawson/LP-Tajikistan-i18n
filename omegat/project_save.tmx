@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click above to add a thread</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113028Z" creationid="mike" creationdate="20200609T113028Z">
+        <seg>Барои зам кардани ришта дар боло зер кунед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112139Z" creationid="mike" creationdate="20200609T112139Z">
@@ -174,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter your reason for flagging this content below - an email will be sent to your administrator and we will investigate the issue</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112911Z" creationid="mike" creationdate="20200609T112911Z">
+        <seg>Сабабҳои байрақ гузоштан ба мундариҷаи зеринро ворид кунед – паёми электронӣ ба маъмури шумо баҳри тафтиши масъала фиристонда мешавад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter your reason for removing this post</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112942Z" creationid="mike" creationdate="20200609T112942Z">
+        <seg>Сабабҳои нест кардани ин нашрро ворид кунед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error occured while getting the course details.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T060010Z" creationid="mike" creationdate="20200609T060010Z">
@@ -214,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flagging the following content</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112907Z" creationid="mike" creationdate="20200609T112907Z">
+        <seg>Ба мундариҷаи зерин байрақ гузоштан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GET STARTED</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112159Z" creationid="mike" creationdate="20200609T112159Z">
@@ -250,6 +282,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112404Z" creationid="mike" creationdate="20200609T112404Z">
         <seg>ДАСТУРҲО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the post you're deleting have any replies, they'll be deleted too!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113004Z" creationid="mike" creationdate="20200609T113004Z">
+        <seg>Агар нашри шумо мехоҳед нест кунед ягон ҷавоб дошта бошад, онҳо низ нест мешаванд!</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading quiz</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112800Z" creationid="mike" creationdate="20200609T112800Z">
+        <seg>Пурсишро гирифта истодаам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MALE</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055253Z" creationid="mike" creationdate="20200609T055253Z">
@@ -386,6 +434,22 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112055Z" creationid="mike" creationdate="20200609T112055Z">
         <seg>Мундариҷаи видеои нест</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No posts yet for this thread!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112836Z" creationid="mike" creationdate="20200609T112836Z">
+        <seg>Ҳоло ягон нашр дар ин ришта нест!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No threads yet for this topic!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113019Z" creationid="mike" creationdate="20200609T113019Z">
+        <seg>Ҳоло ягон ришта оиди ин мавзӯъ нест!</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +522,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T111651Z" creationid="mike" creationdate="20200609T111651Z">
         <seg>Лутфан ворид шавед ва бори дигар санҷед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please sign-in to view quizzes for a course!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112756Z" creationid="mike" creationdate="20200609T112756Z">
+        <seg>Барои дидани пурсишҳои дарс ворид шавед!</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +638,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Registration is required to view this quiz.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112805Z" creationid="mike" creationdate="20200609T112805Z">
+        <seg>Барои дидани пурсиш сабти ном ҳатмист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing the following post</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112935Z" creationid="mike" creationdate="20200609T112935Z">
+        <seg>Нест кардани нашри зерин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reply to this thread</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112857Z" creationid="mike" creationdate="20200609T112857Z">
+        <seg>Ба ин ришта ҷавоб додан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request is invalid</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T111859Z" creationid="mike" creationdate="20200609T111859Z">
@@ -578,6 +674,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112206Z" creationid="mike" creationdate="20200609T112206Z">
         <seg>ВОРИД ШУДАН</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SORT REPLIES BY</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113032Z" creationid="mike" creationdate="20200609T113032Z">
+        <seg>ҶАВОБҲОРО ҶУДО КУНЕД</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,10 +758,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign in to comment on the post...</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112819Z" creationid="mike" creationdate="20200609T112819Z">
+        <seg>Барои шарҳ додани нашр сабти ном кунед...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sign in to reply to the post...</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112822Z" creationid="mike" creationdate="20200609T112822Z">
+        <seg>Барои ба нашр ҷавоб додан сабти ном кунед...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skipped</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112627Z" creationid="mike" creationdate="20200609T112627Z">
         <seg>Гузарондан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start new thread</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113011Z" creationid="mike" creationdate="20200609T113011Z">
+        <seg>Оғози риштаи нав</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start the discussion by entering your comments below</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112842Z" creationid="mike" creationdate="20200609T112842Z">
+        <seg>Бо ворид кардани шарҳи худ мубоҳисаро дар поён сар кунед!</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +834,22 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112426Z" creationid="mike" creationdate="20200609T112426Z">
         <seg>Ҷавоби дуруст: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This action is irreversible.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112956Z" creationid="mike" creationdate="20200609T112956Z">
+        <seg>Ин амал бозгашт надорад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To register, go to</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112809Z" creationid="mike" creationdate="20200609T112809Z">
+        <seg>Барои сабти ном равед ба</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +990,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>coursewide Forum</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113008Z" creationid="mike" creationdate="20200609T113008Z">
+        <seg>форуми сатҳи дарс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>find your course and register.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112816Z" creationid="mike" creationdate="20200609T112816Z">
+        <seg>дарси худро ёфта сабти ном кунед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>home page</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112812Z" creationid="mike" creationdate="20200609T112812Z">
+        <seg>саҳифаи аслӣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112605Z" creationid="mike" creationdate="20200609T112605Z">
@@ -866,6 +1042,30 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055728Z" creationid="mike" creationdate="20200609T055728Z">
         <seg>ҷавоб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reply to thread</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113036Z" creationid="mike" creationdate="20200609T113036Z">
+        <seg>ба ришта ҷавоб диҳед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type your reason for flagging content here...</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112930Z" creationid="mike" creationdate="20200609T112930Z">
+        <seg>сабаби қайд намудани мундариҷаро инҷо ворид кунед...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type your reason for removing this post</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112948Z" creationid="mike" creationdate="20200609T112948Z">
+        <seg>сабаби худро оиди нест кардани ин нашр нависед</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
