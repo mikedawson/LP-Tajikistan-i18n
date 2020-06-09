@@ -54,10 +54,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054931Z" creationid="mike" creationdate="20200609T054931Z">
+        <seg>Почтаи электронӣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: typing, accounting etc.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T054847Z" creationid="mike" creationdate="20200609T054847Z">
         <seg>Мисол: ҳуруфчинӣ, муҳосибот ва ғайра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FEMALE</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055046Z" creationid="mike" creationdate="20200609T055046Z">
+        <seg>ЗАН</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to register.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055001Z" creationid="mike" creationdate="20200609T055001Z">
+        <seg>Ба қайд гирифта нашуд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Name</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055109Z" creationid="mike" creationdate="20200609T055109Z">
+        <seg>Ном</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055115Z" creationid="mike" creationdate="20200609T055115Z">
+        <seg>Ҷинс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this error still persists, please contact site admins.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055041Z" creationid="mike" creationdate="20200609T055041Z">
+        <seg>Агар ин хатогӣ боқӣ монад, ба маъмурони сайт муроҷиат кунед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please make sure you are signed-in and your sign-in is not timed out.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055029Z" creationid="mike" creationdate="20200609T055007Z">
+        <seg>Лутфан тафтиш кунед, ки ворид шудаед ва вақти воридшавӣ ба охир нарасидааст.</seg>
       </tuv>
     </tu>
     <tu>
