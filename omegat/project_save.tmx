@@ -174,10 +174,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please provide valid inputs for all fields.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055549Z" creationid="mike" creationdate="20200609T055549Z">
+        <seg>Лутфан ба ҳамаи катакҳо ҷавоби муносиб пешниҳод кунед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please register to view lesson content.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055718Z" creationid="mike" creationdate="20200609T055718Z">
+        <seg>Лутфан барои дидани мундариҷаи дарс сабти ном кунед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Post</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055441Z" creationid="mike" creationdate="20200609T055441Z">
+        <seg>Нашр кардан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055518Z" creationid="mike" creationdate="20200609T055518Z">
+        <seg>Профил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile could not be updated!</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055540Z" creationid="mike" creationdate="20200609T055540Z">
+        <seg>Профил азнавсози нашуд!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Qualification</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055604Z" creationid="mike" creationdate="20200609T055604Z">
+        <seg>Ихтисос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055655Z" creationid="mike" creationdate="20200609T055655Z">
+        <seg>Савол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055706Z" creationid="mike" creationdate="20200609T055706Z">
+        <seg>Ба қайд гирифтан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>button</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T054529Z" creationid="mike" creationdate="20200609T054529Z">
         <seg>тугмача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>posts</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055508Z" creationid="mike" creationdate="20200609T055508Z">
+        <seg>нашрҳо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>recent</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055701Z" creationid="mike" creationdate="20200609T055701Z">
+        <seg>ба наздикӣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reply</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T055728Z" creationid="mike" creationdate="20200609T055728Z">
+        <seg>ҷавоб</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
