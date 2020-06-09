@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Admin</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113405Z" creationid="mike" creationdate="20200609T113405Z">
+        <seg>Маъмур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113409Z" creationid="mike" creationdate="20200609T113409Z">
+        <seg>Ҳама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All courses</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113341Z" creationid="mike" creationdate="20200609T113341Z">
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113109Z" creationid="mike" creationdate="20200609T113109Z">
         <seg>Барои зам кардани ришта дар дасти чап зер кунед Паём дар форумҳо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113431Z" creationid="mike" creationdate="20200609T113431Z">
+        <seg>Шарҳ</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113425Z" creationid="mike" creationdate="20200609T113425Z">
+        <seg>Паём</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Profile</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112202Z" creationid="mike" creationdate="20200609T112202Z">
@@ -522,6 +554,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T055346Z" creationid="mike" creationdate="20200609T055346Z">
         <seg>ОЯНДА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New course</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113534Z" creationid="mike" creationdate="20200609T113534Z">
+        <seg>Дарси нав</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +618,30 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113219Z" creationid="mike" creationdate="20200609T113219Z">
         <seg>Барои шаҳодатнома муносиб нест</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice Board</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113525Z" creationid="mike" creationdate="20200609T113525Z">
+        <seg>Лавҳаи хабарнома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ok, Got it</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113414Z" creationid="mike" creationdate="20200609T113414Z">
+        <seg>Хоб, фаҳмидам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One or more headers are incorrect/ missing.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113538Z" creationid="mike" creationdate="20200609T113538Z">
+        <seg>Як ё якчанд сарлавҳаҳо нодуруст ё вуҷуд надоранд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terms and Conditions</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113358Z" creationid="mike" creationdate="20200609T113358Z">
+        <seg>Шартҳо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112400Z" creationid="mike" creationdate="20200609T112400Z">
@@ -994,6 +1066,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112426Z" creationid="mike" creationdate="20200609T112426Z">
         <seg>Ҷавоби дуруст: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113553Z" creationid="mike" creationdate="20200609T113553Z">
+        <seg>Арзиши</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1198,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a minute ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113443Z" creationid="mike" creationdate="20200609T113443Z">
+        <seg>як дақиқа пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an hour ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113451Z" creationid="mike" creationdate="20200609T113451Z">
+        <seg>як соат пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>button</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T054529Z" creationid="mike" creationdate="20200609T054529Z">
@@ -1158,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>days ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113505Z" creationid="mike" creationdate="20200609T113505Z">
+        <seg>чанд рӯз пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>find your course and register.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112816Z" creationid="mike" creationdate="20200609T112816Z">
@@ -1190,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hours ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113455Z" creationid="mike" creationdate="20200609T113455Z">
+        <seg>чанд соат пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>likes</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113159Z" creationid="mike" creationdate="20200609T113159Z">
@@ -1198,10 +1310,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minutes ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113447Z" creationid="mike" creationdate="20200609T113447Z">
+        <seg>чанд дақиқа пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>months ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113513Z" creationid="mike" creationdate="20200609T113513Z">
+        <seg>чанд моҳ пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112605Z" creationid="mike" creationdate="20200609T112605Z">
         <seg>аз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one month ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113509Z" creationid="mike" creationdate="20200609T113509Z">
+        <seg>як моҳ пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one second ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113436Z" creationid="mike" creationdate="20200609T113436Z">
+        <seg>як сония пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one year ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113518Z" creationid="mike" creationdate="20200609T113518Z">
+        <seg>як сол пеш</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>seconds ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113439Z" creationid="mike" creationdate="20200609T113439Z">
+        <seg>чанд сония пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>type your question here...</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113115Z" creationid="mike" creationdate="20200609T113115Z">
@@ -1266,6 +1426,22 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112948Z" creationid="mike" creationdate="20200609T112948Z">
         <seg>сабаби худро оиди нест кардани ин нашр нависед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>years ago</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113522Z" creationid="mike" creationdate="20200609T113522Z">
+        <seg>чанд сол пеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yesterday</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T113500Z" creationid="mike" creationdate="20200609T113500Z">
+        <seg>дирӯз</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
