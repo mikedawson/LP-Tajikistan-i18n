@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;You can pass this exam by securing ${passPercent}% or above.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114611Z" creationid="mike" creationdate="20200609T114611Z">
+        <seg>&lt;b&gt;Ба шумо барои гузаштан аз ин имтиҳон лозим ${passPercent}% ё зиёд.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;You will receive a course completion certificate on securing ${passPercent}% or above.&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T114302Z" creationid="mike" creationdate="20200609T114302Z">
@@ -326,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete all previous lessons to unlock this lesson</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114622Z" creationid="mike" creationdate="20200609T114622Z">
+        <seg>Барои кушодани дарси зерин дарсҳои пешинаро ҷамъбаст кунед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete this course to unlock the exam.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113708Z" creationid="mike" creationdate="20200609T113708Z">
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112623Z" creationid="mike" creationdate="20200609T112623Z">
         <seg>Дуруст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country Code</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114619Z" creationid="mike" creationdate="20200609T114619Z">
+        <seg>Рамзи кишвар</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114651Z" creationid="mike" creationdate="20200609T114651Z">
+        <seg>Аз нав кардан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh your knowledge on what you just learned.</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T114032Z" creationid="mike" creationdate="20200609T114032Z">
@@ -1422,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, looks like something went wrong.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114642Z" creationid="mike" creationdate="20200609T114637Z">
+        <seg>Узр, хатогие ба миён омад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Exam</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113754Z" creationid="mike" creationdate="20200609T113754Z">
@@ -1510,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test your overall learning.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114615Z" creationid="mike" creationdate="20200609T114615Z">
+        <seg>Омӯзиши умумии худро санҷед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The correct answer is: {0}</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112426Z" creationid="mike" creationdate="20200609T112426Z">
@@ -1558,6 +1606,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This lesson is locked</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114627Z" creationid="mike" creationdate="20200609T114627Z">
+        <seg>Ин супориш баста аст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This lesson will open in a new page</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114701Z" creationid="mike" creationdate="20200609T114701Z">
+        <seg>Ин дарс дар саҳифаи нав кушода мешавад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This quiz is locked</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114633Z" creationid="mike" creationdate="20200609T114633Z">
+        <seg>Ин пурсиш баста аст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To get started, set your browser's Data Savings setting to High</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T114350Z" creationid="mike" creationdate="20200609T114350Z">
@@ -1578,6 +1650,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T114338Z" creationid="mike" creationdate="20200609T114338Z">
         <seg>Кӯшиши ёфтанро дар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try refreshing the page or try after sometime.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114647Z" creationid="mike" creationdate="20200609T114647Z">
+        <seg>Кӯшиши аз нав кардани саҳифаро кунед ё бадтар санҷед.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View Lesson</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114704Z" creationid="mike" creationdate="20200609T114704Z">
+        <seg>Дидани дарс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View as a learner</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113843Z" creationid="mike" creationdate="20200609T113843Z">
@@ -1650,6 +1738,14 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113839Z" creationid="mike" creationdate="20200609T113839Z">
         <seg>Ҳамчун маъмур дидан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View the lesson and get back here when you are done</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114656Z" creationid="mike" creationdate="20200609T114656Z">
+        <seg>Дарсро бинед ва баъд аз анҷом инҷо баргардед</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,10 +1838,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have been added by admin to a course ${courseName}.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114607Z" creationid="mike" creationdate="20200609T114607Z">
+        <seg>Шуморо маъмур ба дарси нав шомил кард ${courseName}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have been added by admin to course</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T113639Z" creationid="mike" creationdate="20200609T113639Z">
         <seg>Шумо аз ҷониби маъмур ба дарс зам карда шудед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been added to a new course ${courseName}.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T114557Z" creationid="mike" creationdate="20200609T114557Z">
+        <seg>Шумо ба дарси нав шомил шудед ${courseName}.</seg>
       </tuv>
     </tu>
     <tu>
