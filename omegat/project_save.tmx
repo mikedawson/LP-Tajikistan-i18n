@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112139Z" creationid="mike" creationdate="20200609T112139Z">
+        <seg>Тамом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Course Library</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112132Z" creationid="mike" creationdate="20200609T112132Z">
+        <seg>Китобхонаи дарсҳо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create a Profile</seg>
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T054619Z" creationid="mike" creationdate="20200609T054619Z">
@@ -378,6 +394,22 @@
       </tuv>
       <tuv lang="TG" changeid="mike" changedate="20200609T112104Z" creationid="mike" creationdate="20200609T112104Z">
         <seg>Ҷустуҷӯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112126Z" creationid="mike" creationdate="20200609T112126Z">
+        <seg>Интихоб кардан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select atleast one category to continue.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T112119Z" creationid="mike" creationdate="20200609T112119Z">
+        <seg>Барои идома ҳадди ақал як табақаро интихоб кунед.</seg>
       </tuv>
     </tu>
     <tu>
