@@ -4,6 +4,70 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054536Z" creationid="mike" creationdate="20200609T054536Z">
+        <seg>Бекор кардан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a Profile</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054619Z" creationid="mike" creationdate="20200609T054619Z">
+        <seg>Эҷоди профил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CreateProfile</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054601Z" creationid="mike" creationdate="20200609T054601Z">
+        <seg>Эҷоди профил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DONE</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054748Z" creationid="mike" creationdate="20200609T054748Z">
+        <seg>ИҶРО ШУДА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date of birth</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054657Z" creationid="mike" creationdate="20200609T054657Z">
+        <seg>Санаи таваллуд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date of birth (MM/DD/YYYY)</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054734Z" creationid="mike" creationdate="20200609T054734Z">
+        <seg>Санаи таваллуд (MM/РР/СССС)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: typing, accounting etc.</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054847Z" creationid="mike" creationdate="20200609T054847Z">
+        <seg>Мисол: ҳуруфчинӣ, муҳосибот ва ғайра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>button</seg>
+      </tuv>
+      <tuv lang="TG" changeid="mike" changedate="20200609T054529Z" creationid="mike" creationdate="20200609T054529Z">
+        <seg>тугмача</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
